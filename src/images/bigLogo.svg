@@ -1,0 +1,36 @@
+<svg width="100.000000" height="100.000000" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip972_9467">
+			<rect id="Frame 4102" rx="0.000000" width="76.661255" height="82.410851" transform="translate(12.874769 8.958265)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip972_9466">
+			<rect id="Frame 2" rx="0.000000" width="78.611496" height="82.611496" transform="translate(10.694251 8.694251)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip688_7402">
+			<rect id="Frame 1948754724" rx="23.500000" width="99.000000" height="99.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient x1="49.465836" y1="10.713103" x2="49.465836" y2="98.188698" id="paint_linear_972_9468_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00F0FF"/>
+			<stop offset="0.526042" stop-color="#004E53"/>
+			<stop offset="1.000000" stop-color="#00F0FF"/>
+		</linearGradient>
+		<linearGradient x1="80.770447" y1="23.146324" x2="18.324280" y2="85.592484" id="paint_linear_972_9469_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00F0FF"/>
+			<stop offset="0.526042" stop-color="#004E53"/>
+			<stop offset="1.000000" stop-color="#00F0FF"/>
+		</linearGradient>
+	</defs>
+	<rect id="Frame 1948754724" rx="23.500000" width="99.000000" height="99.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip688_7402)">
+		<g clip-path="url(#clip972_9466)">
+			<g clip-path="url(#clip972_9467)">
+				<path id="Polygon 1 (Stroke)" d="M76.52 63.12L55.47 26.68C52.8 22.05 46.12 22.05 43.45 26.68L22.41 63.12C19.73 67.75 23.07 73.54 28.42 73.54L70.5 73.54C75.85 73.54 79.19 67.75 76.52 63.12ZM57.88 25.29C54.14 18.81 44.78 18.81 41.04 25.29L20 61.74C16.26 68.21 20.94 76.31 28.42 76.31L70.5 76.31C77.99 76.31 82.66 68.21 78.92 61.74L57.88 25.29Z" fill="url(#paint_linear_972_9468_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Polygon 2 (Stroke)" d="M62.65 80.04L73.73 38.68C75.11 33.52 70.39 28.8 65.22 30.18L23.87 41.26C18.71 42.64 16.98 49.1 20.76 52.88L51.03 83.15C54.81 86.93 61.26 85.2 62.65 80.04ZM76.41 39.4C78.34 32.18 71.73 25.56 64.5 27.5L23.15 38.58C15.92 40.52 13.5 49.55 18.79 54.84L49.07 85.11C54.36 90.4 63.39 87.98 65.33 80.75L76.41 39.4Z" fill="url(#paint_linear_972_9469_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<path id="Polygon 3 (Stroke)" d="M40.65 81.78L77.73 60.38C82.36 57.7 82.36 51.02 77.73 48.35L40.65 26.95C36.03 24.27 30.24 27.61 30.24 32.96L30.24 75.77C30.24 81.11 36.03 84.45 40.65 81.78ZM79.12 62.78C85.6 59.04 85.6 49.69 79.12 45.95L42.04 24.54C35.56 20.8 27.46 25.48 27.46 32.96L27.46 75.77C27.46 83.25 35.56 87.93 42.04 84.19L79.12 62.78Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+			</g>
+		</g>
+	</g>
+</svg>

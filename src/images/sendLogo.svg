@@ -1,0 +1,16 @@
+<svg width="72.000000" height="72.000000" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip13_10134">
+			<rect id="arrow-up" rx="0.000000" width="23.000000" height="23.000000" transform="translate(24.500000 24.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Round btn" rx="36.000000" width="72.000000" height="72.000000" fill="#00F0FF" fill-opacity="1.000000"/>
+	<rect id="arrow-up" rx="0.000000" width="23.000000" height="23.000000" transform="translate(24.500000 24.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip13_10134)">
+		<path id="Vector" d="M36 43L36 29" stroke="#1E2932" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M29 36L36 29L43 36" stroke="#1E2932" stroke-opacity="1.000000" stroke-width="1.500000" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>

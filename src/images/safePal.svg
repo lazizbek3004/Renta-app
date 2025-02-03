@@ -1,0 +1,21 @@
+<svg width="64.000000" height="64.000000" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip568_6330">
+			<rect id="safepal-logo 1" rx="0.000000" width="46.000000" height="47.000000" transform="translate(9.500000 8.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip568_6329">
+			<rect id="Frame 4018" rx="15.500000" width="63.000000" height="63.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="Frame 4018" rx="15.500000" width="63.000000" height="63.000000" transform="translate(0.500000 0.500000)" fill="#4A21EF" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip568_6329)">
+		<rect id="safepal-logo 1" rx="0.000000" width="46.000000" height="47.000000" transform="translate(9.500000 8.500000)" fill="#FFFFFF" fill-opacity="0"/>
+		<g clip-path="url(#clip568_6330)">
+			<path id="Vector" d="M29.6 8C28.17 8 26.8 8.57 25.78 9.61L9.9 25.83C9.3 26.45 9 27.25 9 28.06C9 28.87 9.3 29.67 9.9 30.29L20.31 40.92L20.31 22.11C20.31 20.71 21.42 19.57 22.79 19.57C28.6 19.57 42.76 19.57 44.68 19.57L56 8.01L29.6 8.01L29.6 8Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+			<path id="Vector" d="M20.31 44.44L42.2 44.44C43.57 44.44 44.68 43.3 44.68 41.9L44.68 23.09L55.09 33.72C55.69 34.34 56 35.14 56 35.95C56 36.76 55.69 37.56 55.09 38.18L39.21 54.4C38.19 55.44 36.82 56.01 35.39 56.01L9 56.01L20.31 44.46L20.31 44.44Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+	</g>
+</svg>

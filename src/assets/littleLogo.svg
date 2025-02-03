@@ -1,0 +1,20 @@
+<svg width="43.829224" height="43.829163" viewBox="0 0 43.8292 43.8292" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient x1="19.592331" y1="1.415652" x2="19.592331" y2="47.058311" id="paint_linear_3_4540_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00F0FF"/>
+			<stop offset="0.526042" stop-color="#004E53"/>
+			<stop offset="1.000000" stop-color="#00F0FF"/>
+		</linearGradient>
+		<linearGradient x1="35.926231" y1="7.902987" x2="3.343325" y2="40.485893" id="paint_linear_3_4541_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00F0FF"/>
+			<stop offset="0.526042" stop-color="#004E53"/>
+			<stop offset="1.000000" stop-color="#00F0FF"/>
+		</linearGradient>
+	</defs>
+	<path id="Polygon 1 (Stroke)" d="M33.7 28.76L22.72 9.74C21.33 7.33 17.84 7.33 16.45 9.74L5.47 28.76C4.08 31.18 5.82 34.19 8.61 34.19L30.57 34.19C33.36 34.19 35.1 31.18 33.7 28.76ZM23.98 9.02C22.03 5.64 17.15 5.64 15.2 9.02L4.22 28.04C2.26 31.42 4.7 35.64 8.61 35.64L30.57 35.64C34.47 35.64 36.91 31.42 34.96 28.04L23.98 9.02Z" fill="url(#paint_linear_3_4540_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="Polygon 2 (Stroke)" d="M26.47 37.58L32.25 16.01C32.97 13.31 30.51 10.85 27.81 11.57L6.23 17.35C3.54 18.07 2.64 21.44 4.61 23.41L20.41 39.21C22.38 41.18 25.75 40.28 26.47 37.58ZM33.65 16.38C34.66 12.61 31.21 9.16 27.44 10.17L5.86 15.95C2.09 16.96 0.83 21.68 3.59 24.44L19.38 40.23C22.14 42.99 26.86 41.73 27.87 37.96L33.65 16.38Z" fill="url(#paint_linear_3_4541_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="Polygon 3 (Stroke)" d="M14.99 38.5L34.34 27.33C36.75 25.93 36.75 22.45 34.34 21.05L14.99 9.88C12.58 8.49 9.56 10.23 9.56 13.02L9.56 35.36C9.56 38.15 12.58 39.89 14.99 38.5ZM35.06 28.58C38.44 26.63 38.44 21.75 35.06 19.8L15.72 8.63C12.34 6.68 8.11 9.12 8.11 13.02L8.11 35.36C8.11 39.26 12.34 41.7 15.72 39.75L35.06 28.58Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+</svg>

@@ -1,0 +1,62 @@
+<svg width="64.000000" height="64.000000" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip568_6339">
+			<rect id="Frame 4018" rx="15.500000" width="63.000000" height="63.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<linearGradient x1="32.000000" y1="0.000000" x2="32.000000" y2="64.000000" id="paint_linear_568_6339_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#174299"/>
+			<stop offset="1.000000" stop-color="#001E59"/>
+		</linearGradient>
+		<radialGradient gradientTransform="translate(17.55 46.45) rotate(-90) scale(31.45 31.45)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_568_6342_0" gradientUnits="userSpaceOnUse">
+			<stop offset="0.770277" stop-color="#FF4000"/>
+			<stop offset="1.000000" stop-color="#8754C9"/>
+		</radialGradient>
+		<linearGradient x1="41.774952" y1="47.724953" x2="48.999954" y2="47.724953" id="paint_linear_568_6343_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FF4000"/>
+			<stop offset="1.000000" stop-color="#8754C9"/>
+		</linearGradient>
+		<linearGradient x1="16.274994" y1="14.999999" x2="16.274994" y2="22.225000" id="paint_linear_568_6344_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#8754C9"/>
+			<stop offset="1.000000" stop-color="#FF4000"/>
+		</linearGradient>
+		<radialGradient gradientTransform="translate(17.55 46.4501) rotate(-90) scale(24.65 24.65)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_568_6346_0" gradientUnits="userSpaceOnUse">
+			<stop offset="0.723929" stop-color="#FFF700"/>
+			<stop offset="1.000000" stop-color="#FF9901"/>
+		</radialGradient>
+		<linearGradient x1="35.399902" y1="47.724953" x2="42.199902" y2="47.724953" id="paint_linear_568_6347_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFF700"/>
+			<stop offset="1.000000" stop-color="#FF9901"/>
+		</linearGradient>
+		<linearGradient x1="16.275005" y1="28.600050" x2="16.275005" y2="21.800049" id="paint_linear_568_6348_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFF700"/>
+			<stop offset="1.000000" stop-color="#FF9901"/>
+		</linearGradient>
+		<radialGradient gradientTransform="translate(17.55 46.45) rotate(-90) scale(17.85 17.85)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_568_6350_0" gradientUnits="userSpaceOnUse">
+			<stop offset="0.595130" stop-color="#00AAFF"/>
+			<stop offset="1.000000" stop-color="#01DA40"/>
+		</radialGradient>
+		<radialGradient gradientTransform="translate(28.1751 47.725) rotate(0) scale(7.225 19.2667)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_568_6351_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00AAFF"/>
+			<stop offset="1.000000" stop-color="#01DA40"/>
+		</radialGradient>
+		<radialGradient gradientTransform="translate(16.275 35.825) rotate(-90) scale(7.225 137.007)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_radial_568_6352_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00AAFF"/>
+			<stop offset="1.000000" stop-color="#01DA40"/>
+		</radialGradient>
+	</defs>
+	<rect id="Frame 4018" rx="15.500000" width="63.000000" height="63.000000" transform="translate(0.500000 0.500000)" fill="url(#paint_linear_568_6339_0)" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip568_6339)">
+		<path id="outer" d="M15 22.65L17.54 22.65C30.69 22.65 41.35 33.3 41.35 46.45L41.35 49L46.45 49C47.85 49 49 47.85 49 46.45C49 29.08 34.91 15 17.54 15C16.14 15 15 16.14 15 17.54L15 22.65Z" fill="url(#paint_radial_568_6342_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="right cap" d="M42.2 46.45L49 46.45C49 47.85 47.85 49 46.45 49L42.2 49L42.2 46.45Z" fill="url(#paint_linear_568_6343_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="left cap" d="M17.54 15L17.54 21.8L15 21.8L15 17.54C15 16.14 16.14 15 17.54 15Z" fill="url(#paint_linear_568_6344_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="middle" d="M15 21.8L17.54 21.8C31.16 21.8 42.2 32.83 42.2 46.45L42.2 49L34.55 49L34.55 46.45C34.55 37.06 26.93 29.45 17.54 29.45L15 29.45L15 21.8Z" fill="url(#paint_radial_568_6346_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="right cap" d="M35.39 46.45L42.2 46.45L42.2 49L35.39 49L35.39 46.45Z" fill="url(#paint_linear_568_6347_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="left cap" d="M15 28.6L15 21.8L17.54 21.8L17.54 28.6L15 28.6Z" fill="url(#paint_linear_568_6348_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="inner" d="M15 32.84C15 34.25 16.14 35.4 17.54 35.4C23.65 35.4 28.6 40.34 28.6 46.45C28.6 47.85 29.74 49 31.14 49L35.39 49L35.39 46.45C35.39 36.59 27.4 28.6 17.54 28.6L15 28.6L15 32.84Z" fill="url(#paint_radial_568_6350_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="right cap" d="M28.6 46.45L35.4 46.45L35.4 49L31.15 49C29.74 49 28.6 47.85 28.6 46.45Z" fill="url(#paint_radial_568_6351_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="left cap" d="M17.54 35.4C16.14 35.4 15 34.25 15 32.84L15 28.6L17.54 28.6L17.54 35.4Z" fill="url(#paint_radial_568_6352_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>

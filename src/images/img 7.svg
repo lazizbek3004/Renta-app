@@ -1,0 +1,36 @@
+<svg width="1258.821899" height="1258.822266" viewBox="0 0 1258.82 1258.82" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_983_10830_dd" x="2319.535156" y="-14530.655273" width="0.000000" height="0.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="100" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_983_10831_dd" x="2319.535156" y="-14530.655273" width="0.000000" height="0.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="100" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_983_10833_dd" x="7.125488" y="7.125977" width="1244.570923" height="1244.570312" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="40.6069" result="effect_layerBlur_1"/>
+		</filter>
+		<linearGradient x1="129.080841" y1="-371.249115" x2="129.080841" y2="629.411255" id="paint_linear_983_10833_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00F0FF"/>
+			<stop offset="1.000000" stop-color="#009099" stop-opacity="0.000000"/>
+		</linearGradient>
+		<linearGradient x1="154.364716" y1="-611.407471" x2="129.080719" y2="629.411255" id="paint_linear_983_10834_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#00F0FF"/>
+			<stop offset="1.000000" stop-color="#009099" stop-opacity="0.000000"/>
+		</linearGradient>
+	</defs>
+	<g opacity="0.500000">
+		<g filter="url(#filter_983_10833_dd)">
+			<circle id="blure" r="487.277954" transform="matrix(-0.305941 -0.952051 0.952051 -0.305941 629.411 629.411)" stroke="url(#paint_linear_983_10833_0)" stroke-opacity="1.000000" stroke-width="26.104410"/>
+		</g>
+		<circle id="Ellipse 11" r="499.605042" transform="matrix(-0.305941 -0.952051 0.952051 -0.305941 629.411 629.411)" stroke="url(#paint_linear_983_10834_0)" stroke-opacity="1.000000" stroke-width="1.450245"/>
+	</g>
+</svg>

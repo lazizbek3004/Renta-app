@@ -1,0 +1,58 @@
+<svg width="64.000000" height="64.000000" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_568_6363_dd" x="-22.560303" y="-17.434814" width="142.389404" height="112.857910" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="8.20513" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_568_6365_dd" x="-40.127686" y="-41.497192" width="87.899048" height="92.877075" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="8.20513" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_568_6367_dd" x="-60.269531" y="16.910522" width="111.212891" height="106.113037" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="8.20513" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_568_6369_dd" x="-5.099243" y="-60.689819" width="107.547607" height="96.276245" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="8.20513" result="effect_layerBlur_1"/>
+		</filter>
+		<clipPath id="clip568_6357">
+			<rect id="bitget wallet_logo_512 1" rx="0.000000" width="63.875000" height="63.875000" transform="translate(0.062500 0.062500)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip568_6356">
+			<rect id="cbw 1" rx="15.500000" width="63.000000" height="63.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="cbw 1" rx="15.500000" width="63.000000" height="63.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="1.000000"/>
+	<g clip-path="url(#clip568_6356)">
+		<rect id="bitget wallet_logo_512 1" rx="0.000000" width="63.875000" height="63.875000" transform="translate(0.062500 0.062500)" fill="#FFFFFF" fill-opacity="0"/>
+		<g clip-path="url(#clip568_6357)">
+			<mask id="mask568_6359" mask-type="alpha" maskUnits="userSpaceOnUse" x="0.000000" y="0.000000" width="64.000000" height="64.000000">
+				<path id="Vector" d="M0 0L64 0L64 64L0 64L0 0Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+			</mask>
+			<g mask="url(#mask568_6359)">
+				<path id="Vector" d="M0 0L64 0L64 64L0 64L0 0Z" fill="#54FFF5" fill-opacity="1.000000" fill-rule="evenodd"/>
+				<g filter="url(#filter_568_6363_dd)">
+					<path id="Vector" d="M3.37 49.65C-7.34 79.76 49.91 71.25 79.87 63.24C110.54 53.06 89.34 8.2 67.35 7.21C45.36 6.22 70.08 27.95 51.39 34.16C32.71 40.37 16.74 12.01 3.37 49.65Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+				</g>
+				<g filter="url(#filter_568_6365_dd)">
+					<path id="Vector" d="M21.37 -11.46C15.76 -26.8 -4.23 -6 -13.53 6.31C-22.4 19.71 0.75 31.28 9.83 25C18.9 18.73 1.94 17.5 7.34 9.34C12.74 1.17 28.39 7.71 21.37 -11.46Z" fill="#00FFF0" fill-opacity="0.670000" fill-rule="nonzero"/>
+				</g>
+				<g filter="url(#filter_568_6367_dd)">
+					<path id="Vector" d="M24.11 56.35C16.46 30.59 -16.53 44.15 -32.06 54.16C-47 66.01 -11.52 100.08 3.21 98.34C17.95 96.6 -8.61 81.76 0.49 74.54C9.59 67.31 33.69 88.56 24.11 56.35Z" fill="#9D81FF" fill-opacity="1.000000" fill-rule="nonzero"/>
+				</g>
+				<g filter="url(#filter_568_6369_dd)">
+					<path id="Vector" d="M70.52 -26.84C54.01 -46.51 30.36 -30.25 20.6 -19.66C12.06 -7.67 56.06 14.3 68.28 10.54C80.49 6.77 51.62 -1.02 56.82 -8.33C62.02 -15.64 91.17 -2.26 70.52 -26.84Z" fill="#4D94FF" fill-opacity="1.000000" fill-rule="nonzero"/>
+				</g>
+				<path id="Vector" d="M23.29 38.2L34.16 38.2L21.8 25.76L34.32 13.31L37.73 10L26.45 10L12.08 24.44C11.35 25.17 11.36 26.35 12.09 27.07L23.29 38.2ZM29.83 25.79L29.74 25.79L29.83 25.79L29.83 25.79ZM29.83 25.79L42.19 38.23L29.67 50.68L26.26 54L37.54 54L51.91 39.55C52.64 38.82 52.63 37.65 51.9 36.92L40.7 25.79L29.83 25.79Z" fill="#000000" fill-opacity="1.000000" fill-rule="evenodd"/>
+			</g>
+		</g>
+	</g>
+</svg>

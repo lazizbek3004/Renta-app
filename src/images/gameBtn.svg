@@ -1,0 +1,37 @@
+<svg width="487.877197" height="521.582031" viewBox="0 0 487.877 521.582" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_20_6976_dd" x="0.000000" y="0.000000" width="487.877197" height="521.582031" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="36.3462" result="effect_layerBlur_1"/>
+		</filter>
+		<filter id="filter_20_6979_dd" x="-63.605835" y="-26.029297" width="612.692383" height="613.183594" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+			<feGaussianBlur stdDeviation="51.9231" result="effect_layerBlur_1"/>
+		</filter>
+		<clipPath id="clip20_6983">
+			<rect id="power 1" rx="0.000000" width="50.625004" height="50.625004" transform="translate(218.725937 222.745712)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g opacity="0.200000" filter="url(#filter_20_6976_dd)">
+		<path id="blur" d="M230.95 112.51C238.99 107.87 248.88 107.87 256.91 112.51L365.85 175.41C373.89 180.05 378.83 188.62 378.83 197.89L378.83 323.68C378.83 332.96 373.89 341.53 365.85 346.17L256.91 409.06C248.88 413.7 238.99 413.7 230.95 409.06L122.01 346.17C113.98 341.53 109.03 332.96 109.03 323.68L109.03 197.89C109.03 188.62 113.98 180.05 122.01 175.41L230.95 112.51Z" fill="#11ADB6" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+	<path id="bg and shadow" d="M230.95 99.53C238.99 94.89 248.88 94.89 256.91 99.53L365.85 162.43C373.89 167.06 378.83 175.64 378.83 184.91L378.83 310.7C378.83 319.98 373.89 328.55 365.85 333.18L256.91 396.08C248.88 400.72 238.99 400.72 230.95 396.08L122.01 333.18C113.98 328.55 109.03 319.98 109.03 310.7L109.03 184.91C109.03 175.64 113.98 167.06 122.01 162.43L230.95 99.53Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<mask id="mask20_6978" mask-type="alpha" maskUnits="userSpaceOnUse" x="109.038452" y="96.057617" width="269.800293" height="303.505859">
+		<path id="Polygon 11" d="M230.95 99.53C238.99 94.89 248.88 94.89 256.91 99.53L365.85 162.43C373.89 167.06 378.83 175.64 378.83 184.91L378.83 310.7C378.83 319.98 373.89 328.55 365.85 333.18L256.91 396.08C248.88 400.72 238.99 400.72 230.95 396.08L122.01 333.18C113.98 328.55 109.03 319.98 109.03 310.7L109.03 184.91C109.03 175.64 113.98 167.06 122.01 162.43L230.95 99.53Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</mask>
+	<g mask="url(#mask20_6978)">
+		<g filter="url(#filter_20_6979_dd)">
+			<ellipse id="Ellipse 6" cx="242.740356" cy="280.562500" rx="150.576935" ry="150.822037" fill="#FFFFFF" fill-opacity="1.000000"/>
+		</g>
+	</g>
+	<rect id="power 1" rx="0.000000" width="50.625004" height="50.625004" transform="translate(218.725937 222.745712)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip20_6983)">
+		<path id="Vector" d="M257.79 236.46C260.52 239.18 262.37 242.65 263.12 246.43C263.87 250.2 263.49 254.12 262.01 257.68C260.54 261.23 258.04 264.27 254.84 266.41C251.64 268.55 247.87 269.69 244.02 269.69C240.17 269.69 236.41 268.55 233.21 266.41C230 264.27 227.51 261.23 226.03 257.68C224.56 254.12 224.17 250.2 224.93 246.43C225.68 242.65 227.53 239.18 230.25 236.46" stroke="#798793" stroke-opacity="1.000000" stroke-width="1.947115" stroke-linejoin="round" stroke-linecap="round"/>
+		<path id="Vector" d="M244.03 226.42L244.03 248.05" stroke="#798793" stroke-opacity="1.000000" stroke-width="1.947115" stroke-linejoin="round" stroke-linecap="round"/>
+	</g>
+</svg>

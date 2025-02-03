@@ -1,0 +1,32 @@
+<svg width="20.977051" height="20.000000" viewBox="0 0 20.9771 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_13_6764_dd" x="-2.312256" y="10.078125" width="22.440674" height="14.546875" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="2.31231"/>
+			<feGaussianBlur stdDeviation="0.770771"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<filter id="filter_13_6765_dd" x="-0.681885" y="0.000000" width="23.971191" height="18.982422" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="2.31231"/>
+			<feGaussianBlur stdDeviation="0.770771"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<linearGradient x1="10.488554" y1="0.000000" x2="10.488554" y2="20.000278" id="paint_linear_13_6766_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#004E53"/>
+			<stop offset="1.000000" stop-color="#00AEB9"/>
+		</linearGradient>
+	</defs>
+	<path id="Union" d="M7.26807 5.75879L1.63037 0L14.7507 0C16.4844 0.388672 20.3367 1.97949 20.9128 6.42969C21.4536 10.6074 18.4775 13.5596 15.9175 14.3574L10.5945 9.00488L13.9951 9.00488C16.0171 7.85449 15.0149 6.10156 14.0403 5.75879L7.26807 5.75879ZM7.91943 10.0781L0 10.0781L9.71313 20L17.8162 20L7.91943 10.0781Z" clip-rule="evenodd" fill="url(#paint_linear_13_6766_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+</svg>
