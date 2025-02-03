@@ -12,7 +12,7 @@ const ConfirmWallet: React.FC = () => {
 
   const changeRoute = () => {
     if (inputValue.trim()) {
-      navigate("/");
+      navigate("/wallet");
     }
   };
 

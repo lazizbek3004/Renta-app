@@ -12,7 +12,7 @@ const ImportWallet: React.FC = () => {
 
 	const changeRoute = () => {
 		if(inputValue.trim()){
-			navigate('/')
+			navigate('/confirm-wallet')
 		}
 		
 	}
